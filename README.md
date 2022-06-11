@@ -4,9 +4,9 @@ This is a template to quickly get you started on E2E testing with [Cypress](http
 
 ## Features
 
-⭐️ Cypress 10
-⭐️ TypeScript 4.7.3
-⭐️ Cypress Testing Library 8.0.3
+- ⭐️ Cypress 10
+- ⭐️ TypeScript 4.7.3
+- ⭐️ Cypress Testing Library 8.0.3
 
 ## Installation
 
